@@ -1,4 +1,4 @@
-# welcome bot: A Probot App
+# Yo welcome bot: A Probot App
 
 We bout to do this 
 
